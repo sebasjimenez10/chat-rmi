@@ -1,4 +1,4 @@
-chatRMI
+Chat RMI
 =======
 
 Chat with RMI
